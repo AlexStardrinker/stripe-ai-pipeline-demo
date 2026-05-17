@@ -1,0 +1,7 @@
+# Demo runs with zero dependencies (stdlib only).
+# Uncomment the lines below to wire up real production integrations.
+
+# anthropic>=0.40.0     # for real Claude API calls
+# stripe>=8.0.0         # to fetch live charges from Stripe
+# gspread>=6.0.0        # to append rows to a Google Sheet
+# google-auth>=2.0.0    # service-account auth for gspread

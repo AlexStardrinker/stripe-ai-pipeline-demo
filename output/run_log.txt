@@ -1,0 +1,8 @@
+[20:11:57] Loading transactions from stripe_transactions.csv
+[20:11:57] Loaded 50 transactions
+[20:11:57] Categorizing with mock mode (set ANTHROPIC_API_KEY for real run)
+[20:11:57] Enriched 50 transactions
+[20:11:57] Writing categorized CSV → categorized_transactions.csv
+[20:11:57] Building Slack digest
+[20:11:57] Wrote digest → slack_digest.md
+[20:11:57] Skipping Slack post (no SLACK_WEBHOOK_URL set)

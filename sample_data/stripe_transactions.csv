@@ -1,0 +1,51 @@
+charge_id,created_at,amount_cents,currency,customer_email,description,status
+ch_3OqA1xKLm9pZqRwM01,2026-05-15T08:14:22Z,4900,usd,maria.santos@acmehealth.io,Pro Plan - Monthly,succeeded
+ch_3OqA2xKLm9pZqRwM02,2026-05-15T08:47:11Z,9900,usd,j.fischer@northwind-co.de,Team Plan - Monthly,succeeded
+ch_3OqA3xKLm9pZqRwM03,2026-05-15T09:02:45Z,1900,usd,kelly.r@gmail.com,Email Templates Bundle,succeeded
+ch_3OqA4xKLm9pZqRwM04,2026-05-15T09:18:33Z,150000,usd,billing@stratosphere-llc.com,Consulting Engagement - May,succeeded
+ch_3OqA5xKLm9pZqRwM05,2026-05-15T10:01:17Z,4900,usd,david.lee@portfolio.studio,Pro Plan - Monthly,succeeded
+ch_3OqA6xKLm9pZqRwM06,2026-05-15T10:33:09Z,2900,usd,sarah.j@startup.io,Starter Plan - Monthly,succeeded
+ch_3OqA7xKLm9pZqRwM07,2026-05-15T11:14:22Z,4900,usd,maria.santos@acmehealth.io,Pro Plan - Monthly,succeeded
+ch_3OqA8xKLm9pZqRwM08,2026-05-15T11:55:48Z,19900,usd,ops@ridgeline-ventures.com,Enterprise Add-on - API Calls,succeeded
+ch_3OqA9xKLm9pZqRwM09,2026-05-15T12:22:01Z,300000,usd,billing@megacorp-global.net,Annual Enterprise License,succeeded
+ch_3OqA10xKLm9pZqRwM10,2026-05-15T13:08:39Z,4900,usd,refund_test@example.com,Pro Plan - Monthly,refunded
+ch_3OqA11xKLm9pZqRwM11,2026-05-15T13:44:55Z,2900,usd,alex.wong@designhq.co,Starter Plan - Monthly,succeeded
+ch_3OqA12xKLm9pZqRwM12,2026-05-15T14:11:27Z,3900,usd,emma.b@craftbox.shop,Premium eBook Package,succeeded
+ch_3OqA13xKLm9pZqRwM13,2026-05-15T14:58:13Z,9900,usd,team@bluewave-creative.com,Team Plan - Monthly,succeeded
+ch_3OqA14xKLm9pZqRwM14,2026-05-15T15:30:44Z,1900,usd,info@solopreneur.dev,Email Templates Bundle,succeeded
+ch_3OqA15xKLm9pZqRwM15,2026-05-15T16:04:21Z,75000,usd,accounts@hartline-co.com,Migration Service - One-time,succeeded
+ch_3OqA16xKLm9pZqRwM16,2026-05-15T16:42:18Z,4900,usd,p.morales@growthlab.es,Pro Plan - Monthly,succeeded
+ch_3OqA17xKLm9pZqRwM17,2026-05-15T17:21:55Z,9900,usd,billing@nextgen-saas.io,Team Plan - Monthly,succeeded
+ch_3OqA18xKLm9pZqRwM18,2026-05-15T18:08:09Z,4900,usd,liam.oconnor@dublincode.ie,Pro Plan - Monthly,failed
+ch_3OqA19xKLm9pZqRwM19,2026-05-15T18:33:42Z,4900,usd,liam.oconnor@dublincode.ie,Pro Plan - Monthly (retry),succeeded
+ch_3OqA20xKLm9pZqRwM20,2026-05-15T19:14:30Z,3900,usd,catherine.k@studio77.uk,Premium eBook Package,succeeded
+ch_3OqA21xKLm9pZqRwM21,2026-05-15T19:51:17Z,2900,usd,founder@earlystage.vc,Starter Plan - Monthly,succeeded
+ch_3OqA22xKLm9pZqRwM22,2026-05-15T20:22:55Z,19900,usd,sarah.chen@biolabs.co,Enterprise Add-on - API Calls,succeeded
+ch_3OqA23xKLm9pZqRwM23,2026-05-15T20:48:11Z,1900,usd,marcus.t@personalbrand.me,Email Templates Bundle,succeeded
+ch_3OqA24xKLm9pZqRwM24,2026-05-15T21:14:33Z,4900,usd,j.alvarez@digitalpath.mx,Pro Plan - Monthly,succeeded
+ch_3OqA25xKLm9pZqRwM25,2026-05-15T22:01:48Z,9900,usd,operations@silverline.gmbh,Team Plan - Monthly,succeeded
+ch_3OqA26xKLm9pZqRwM26,2026-05-15T22:33:22Z,1499900,usd,procurement@globaltech-corp.com,Custom Integration - Phase 1,succeeded
+ch_3OqA27xKLm9pZqRwM27,2026-05-15T23:08:55Z,3900,usd,nina.popova@artspace.ru,Premium eBook Package,succeeded
+ch_3OqA28xKLm9pZqRwM28,2026-05-15T23:44:09Z,2900,usd,kevin@bootstrap.solo,Starter Plan - Monthly,succeeded
+ch_3OqA29xKLm9pZqRwM29,2026-05-16T00:11:33Z,4900,usd,j.fischer@northwind-co.de,Pro Plan - Monthly,succeeded
+ch_3OqA30xKLm9pZqRwM30,2026-05-16T00:42:18Z,9900,usd,team@bluewave-creative.com,Team Plan - Monthly,succeeded
+ch_3OqA31xKLm9pZqRwM31,2026-05-16T01:14:55Z,1900,usd,olivia.w@solodesign.co,Email Templates Bundle,succeeded
+ch_3OqA32xKLm9pZqRwM32,2026-05-16T01:48:22Z,4900,usd,refunded_user@example.com,Pro Plan - Monthly,refunded
+ch_3OqA33xKLm9pZqRwM33,2026-05-16T02:11:09Z,250000,usd,finance@horizon-partners.com,Consulting Engagement - April,succeeded
+ch_3OqA34xKLm9pZqRwM34,2026-05-16T02:55:44Z,3900,usd,thomas.b@hobbyist.net,Premium eBook Package,succeeded
+ch_3OqA35xKLm9pZqRwM35,2026-05-16T03:22:18Z,4900,usd,maya.p@indieapp.io,Pro Plan - Monthly,succeeded
+ch_3OqA36xKLm9pZqRwM36,2026-05-16T04:01:33Z,2900,usd,r.nakamura@studio.jp,Starter Plan - Monthly,succeeded
+ch_3OqA37xKLm9pZqRwM37,2026-05-16T04:42:11Z,19900,usd,accounts@enterprisedata.com,Enterprise Add-on - API Calls,succeeded
+ch_3OqA38xKLm9pZqRwM38,2026-05-16T05:18:55Z,1900,usd,a.kovac@freelancer.hr,Email Templates Bundle,succeeded
+ch_3OqA39xKLm9pZqRwM39,2026-05-16T05:51:42Z,9900,usd,billing@nextgen-saas.io,Team Plan - Monthly,disputed
+ch_3OqA40xKLm9pZqRwM40,2026-05-16T06:22:18Z,4900,usd,p.morales@growthlab.es,Pro Plan - Monthly,succeeded
+ch_3OqA41xKLm9pZqRwM41,2026-05-16T06:55:33Z,3900,usd,zara.h@boutique.uk,Premium eBook Package,succeeded
+ch_3OqA42xKLm9pZqRwM42,2026-05-16T07:18:09Z,2900,usd,startup_founder@yc24.com,Starter Plan - Monthly,succeeded
+ch_3OqA43xKLm9pZqRwM43,2026-05-16T07:42:44Z,4900,usd,j.alvarez@digitalpath.mx,Pro Plan - Monthly,succeeded
+ch_3OqA44xKLm9pZqRwM44,2026-05-16T08:08:22Z,1900,usd,test_card@stripe.com,Email Templates Bundle,succeeded
+ch_3OqA45xKLm9pZqRwM45,2026-05-16T08:33:11Z,4900,usd,maria.santos@acmehealth.io,Pro Plan - Monthly,succeeded
+ch_3OqA46xKLm9pZqRwM46,2026-05-16T09:01:55Z,9900,usd,team@bluewave-creative.com,Team Plan - Monthly,succeeded
+ch_3OqA47xKLm9pZqRwM47,2026-05-16T09:34:18Z,950000,usd,unknown_payer@protonmail.com,Custom invoice,succeeded
+ch_3OqA48xKLm9pZqRwM48,2026-05-16T10:08:42Z,3900,usd,d.weber@photography.de,Premium eBook Package,succeeded
+ch_3OqA49xKLm9pZqRwM49,2026-05-16T10:42:11Z,4900,usd,maya.p@indieapp.io,Pro Plan - Monthly,succeeded
+ch_3OqA50xKLm9pZqRwM50,2026-05-16T11:15:33Z,9900,usd,operations@silverline.gmbh,Team Plan - Monthly,succeeded
